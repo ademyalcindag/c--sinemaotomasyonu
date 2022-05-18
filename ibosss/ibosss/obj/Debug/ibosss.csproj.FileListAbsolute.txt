@@ -1,0 +1,20 @@
+C:\Users\CAN\source\repos\ibosss\ibosss\obj\Debug\ibosss.csprojAssemblyReference.cache
+C:\Users\CAN\source\repos\ibosss\ibosss\obj\Debug\ibosss.Form1.resources
+C:\Users\CAN\source\repos\ibosss\ibosss\obj\Debug\ibosss.Properties.Resources.resources
+C:\Users\CAN\source\repos\ibosss\ibosss\obj\Debug\ibosss.csproj.GenerateResource.cache
+C:\Users\CAN\source\repos\ibosss\ibosss\obj\Debug\ibosss.csproj.CoreCompileInputs.cache
+C:\Users\CAN\source\repos\ibosss\ibosss\bin\Debug\ibosss.exe.config
+C:\Users\CAN\source\repos\ibosss\ibosss\bin\Debug\ibosss.exe
+C:\Users\CAN\source\repos\ibosss\ibosss\bin\Debug\ibosss.pdb
+C:\Users\CAN\source\repos\ibosss\ibosss\obj\Debug\ibosss.exe
+C:\Users\CAN\source\repos\ibosss\ibosss\obj\Debug\ibosss.pdb
+D:\d\Yeni klasör\ibosss\ibosss\bin\Debug\ibosss.exe.config
+D:\d\Yeni klasör\ibosss\ibosss\bin\Debug\ibosss.exe
+D:\d\Yeni klasör\ibosss\ibosss\bin\Debug\ibosss.pdb
+D:\d\Yeni klasör\ibosss\ibosss\obj\Debug\ibosss.csproj.AssemblyReference.cache
+D:\d\Yeni klasör\ibosss\ibosss\obj\Debug\ibosss.Form1.resources
+D:\d\Yeni klasör\ibosss\ibosss\obj\Debug\ibosss.Properties.Resources.resources
+D:\d\Yeni klasör\ibosss\ibosss\obj\Debug\ibosss.csproj.GenerateResource.cache
+D:\d\Yeni klasör\ibosss\ibosss\obj\Debug\ibosss.csproj.CoreCompileInputs.cache
+D:\d\Yeni klasör\ibosss\ibosss\obj\Debug\ibosss.exe
+D:\d\Yeni klasör\ibosss\ibosss\obj\Debug\ibosss.pdb
